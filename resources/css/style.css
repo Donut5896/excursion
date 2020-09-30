@@ -1,0 +1,45 @@
+body {
+    font-family: verdana, sans-serif;
+    font-size: 16px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin: 7rem auto;
+}
+
+h1{
+    
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+.download {
+    color: aquamarine;
+    font-size: 1rem;
+}
+
+h2{
+    font-weight: 300px;
+    font-size: 42px;
+}
+
+p{
+    font-size: 21px;
+    color: grey;
+}
+
+footer {
+    Margin-top: 3rem;
+    text-align: right;
+    color: grey;
+}
+
+@media only screen and (max-width:700px){
+    .camp img{
+        width: auto;
+        height: 350px;
+        margin: 3rem auto;
+    }
+}
